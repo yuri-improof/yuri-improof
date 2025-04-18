@@ -57,9 +57,9 @@ I’m building content to empower aspiring Web3 developers — from fundamentals
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuriImproof&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuri-improof&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriImproof&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-improof&layout=compact&theme=tokyonight" />
 </p>
 
 ---
