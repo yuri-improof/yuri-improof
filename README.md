@@ -5,6 +5,7 @@
 
 <p align="center">
   <a href="https://t.me/improof_channel"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" /></a>
+  <a href="mailto:improofyuri@gmail.com"><img src="https://img.shields.io/badge/email-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -73,8 +74,3 @@ Whether you’re:
 - 🛠️ Building something ambitious in crypto...
 
 Feel free to reach out. Let's shape the future together.
-
-<p align="center">
-  <a href="mailto:improofyuri@gmail.com"><img src="https://img.shields.io/badge/email-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/improof"><img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</p>
