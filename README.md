@@ -4,73 +4,72 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/improof_channel"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" /></a>
+  <a href="https://t.me/improof"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" /></a>
+  <a href="https://youtube.com/@yuriimproof"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube" /></a>
+  <a href="https://twitter.com/yuriimproof"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter" /></a>
+  <a href="https://medium.com/@yuriimproof"><img src="https://img.shields.io/badge/Medium-black?logo=medium" /></a>
+  <a href="https://linkedin.com/in/yuriimproof"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
   <a href="mailto:improofyuri@gmail.com"><img src="https://img.shields.io/badge/email-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧠 Who Am I?
+### 🧠 About Me
 
-> **Improof** is more than a name — it's a mindset.  
-> I believe in constant evolution: in code, in tools, in people, and in myself.
+> **Improof** isn’t just a name — it’s a principle.  
+> I believe in continuous evolution: in code, tools, people — and myself.
 
-- ⚡ I improve everything I touch: codebases, tools, processes, perspectives
-- 📚 I simplify complex blockchain topics and teach others along the way
-- 🔬 I explore cutting-edge tech and push boundaries in smart contract development
-- 🛡️ I care deeply about security, efficiency, and clean architecture
-
----
-
-### 🔧 My Stack
-
-**Languages:**  
-Solidity, TypeScript, JavaScript
-
-**Frameworks & Tools:**  
-Hardhat, Foundry, OpenZeppelin, Ethers.js, Chainlink, Remix IDE
-
-**Specialties:**  
-Smart Contract Audits, Gas Optimization, Testing, Security, Oracle Integration
+- ⚡ I optimize everything I touch: codebases, tools, processes, perspectives  
+- 🛠️ I build smart contracts that are secure, efficient, and production-ready  
+- 🔍 I audit code, hunt bugs, and love clean architecture  
+- 📚 I simplify complex Web3 topics and share them with others
 
 ---
 
-### 📹 Content & Education
+### 🧰 Tech Stack
 
-I’m building content to empower aspiring Web3 developers — from fundamentals to advanced security.
-
-- 🎓 Beginner-friendly tutorials on Solidity and smart contracts  
-- 🔍 Real-world vulnerability case studies and security tips  
-- 🛠️ Hands-on projects & tool walkthroughs  
-- 🌍 Web3 concepts made simple
-
-> 💬 Want to learn smart contracts the **modern, secure, production-ready** way?  
-> Join me on [YouTube](https://youtube.com/@YOUR_YOUTUBE) and [Telegram](https://t.me/improof_channel)
+**Languages**: Solidity, TypeScript, JavaScript  
+**Frameworks**: Hardhat, Foundry, OpenZeppelin, Ethers.js, Remix  
+**Specialties**: Smart Contract Audits, Gas Optimization, Testing, Security
 
 ---
 
-### 🔥 Featured Projects
+### 🎓 Education & Content
 
-- 💸 **FundMe** — A decentralized crowdfunding app with Chainlink price feeds  
+I'm creating resources to empower aspiring Web3 developers:
+
+- ✅ Beginner-friendly Solidity tutorials  
+- 🧠 Smart contract security tips & real case studies  
+- 🛠 Hands-on projects and tool walkthroughs  
+- 🌐 Web3 concepts made simple
+
+> 🎥 Learn smart contracts the **modern, secure, scalable** way.  
+> Join me on [YouTube](https://youtube.com/@yuriimproof) and [Telegram](https://t.me/improof)
 
 ---
 
-### 📈 GitHub Stats
+### 🔥 Featured Project
+
+- 💸 **FundMe** — A decentralized crowdfunding dApp with Chainlink price feeds
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuri-improof&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuriimproof&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuri-improof&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuriimproof&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🤝 Let’s Build Together
 
-Whether you’re:
+Are you:
 
-- 🔍 Auditing contracts and want a second pair of eyes  
-- 🧠 Learning Web3 and need mentorship  
-- 🛠️ Building something ambitious in crypto...
+- Auditing smart contracts and want a second set of eyes?  
+- Learning Web3 and looking for guidance?  
+- Building something ambitious in crypto?
 
-Feel free to reach out. Let's shape the future together.
+Let’s connect. I’m here to **Improof** the future — one smart contract at a time.
