@@ -9,7 +9,6 @@
   <a href="https://twitter.com/yuriimproof"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter" /></a>
   <a href="https://medium.com/@yuriimproof"><img src="https://img.shields.io/badge/Medium-black?logo=medium" /></a>
   <a href="https://linkedin.com/in/yuriimproof"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
-  <a href="mailto:improofyuri@gmail.com"><img src="https://img.shields.io/badge/email-%231DA1F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
