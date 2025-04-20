@@ -71,4 +71,4 @@ Are you:
 - Learning Web3 and looking for guidance?  
 - Building something ambitious in crypto?
 
-Let’s connect. I’m here to **Improof** the future — one smart contract at a time.
+Let’s connect. I’m here to **Improof** the future.
