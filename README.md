@@ -7,7 +7,6 @@
   <a href="https://t.me/improof"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" /></a>
   <a href="https://youtube.com/@yuriimproof"><img src="https://img.shields.io/badge/YouTube-red?logo=youtube" /></a>
   <a href="https://twitter.com/yuriimproof"><img src="https://img.shields.io/badge/Twitter-blue?logo=twitter" /></a>
-  <a href="https://medium.com/@yuriimproof"><img src="https://img.shields.io/badge/Medium-black?logo=medium" /></a>
   <a href="https://linkedin.com/in/yuriimproof"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
 </p>
 
